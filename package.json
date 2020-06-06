@@ -1,7 +1,7 @@
 {
   "name": "@jlam55555-playground/npm-hello-world",
   "version": "0.1.1",
-  "description": "A Hello, world! NPM module",
+  "description": "A Hello, world! NPM package",
   "main": "index.js",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
