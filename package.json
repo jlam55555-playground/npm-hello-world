@@ -1,0 +1,23 @@
+{
+  "name": "npm-hello-world",
+  "version": "0.1.0",
+  "description": "A Hello, world! NPM module",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@jlam55555-playground"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jlam55555-playground/npm-hello-world"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "hello world",
+    "helloworld"
+  ],
+  "author": "Jonathan Lam",
+  "license": "MIT"
+}
