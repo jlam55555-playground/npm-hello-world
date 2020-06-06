@@ -58,9 +58,10 @@ Check in and commit the code for the new release. NPM has utilities to automatic
 ```shell script
 $ npm version major   # auto-updates version from 0.1.0 -> 1.1.0; OR
 $ npm version minor   # auto-updates version from 0.1.0 -> 0.2.0; OR
-$ npm version patch   # auto-updates version from 0.1.0 -> 2.0.0
-# npm publish         # publish changes to NPM registry
-# git push --tags     # push new changes and tags
+$ npm version patch   # auto-updates version from 0.1.0 -> 0.1.1
+$ npm publish         # publish changes to NPM registry
+$ git push            # push new changes
+$ git push --tags     # push new tags
 ```
 
 [1]: https://help.github.com/en/packages/using-github-packages-with-your-projects-ecosystem/configuring-npm-for-use-with-github-packages
