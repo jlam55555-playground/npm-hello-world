@@ -1,6 +1,6 @@
 {
   "name": "@jlam55555-playground/npm-hello-world",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "A Hello, world! NPM package",
   "main": "index.js",
   "publishConfig": {
