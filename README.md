@@ -1,7 +1,7 @@
 # npm-hello-world
 A Hello, world! NPM package
 
-This package is an example of an NPM module deployed to the GitHub NPM registry.
+This package is an example of an NPM module deployed to the GitHub NPM registry. See how to create and set up a Node.JS application to use such a GitHub NPM registry package like this in [@jlam55555-playground/npm-hello-world-consumer][2].
 
 ### Creating the NPM package
 
@@ -65,3 +65,4 @@ $ git push --tags     # push new tags
 ```
 
 [1]: https://help.github.com/en/packages/using-github-packages-with-your-projects-ecosystem/configuring-npm-for-use-with-github-packages
+[2]: https://www.github.com/jlam55555-playground/npm-hello-world-consumer
